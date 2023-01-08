@@ -4,6 +4,9 @@ excerpt: "This is a board game called NOGO using min-max algorithm. <br/><img sr
 collection: portfolio
 ---
 2020.12
+
 This is a board game called NOGO，and you can find the rule [here](https://wiki.botzone.org.cn/index.php?title=NoGo).
+
 Min-max for the algorithm and EasyX for the UI.
+
 [DEMO](https://www.bilibili.com/video/BV1bK411o7Yr/?spm_id_from=333.999.0.0)
