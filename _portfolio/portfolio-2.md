@@ -1,5 +1,5 @@
 ---
-title: "a survey for HDR image reconstruction"
+title: "A Survey for HDR Image Reconstruction"
 excerpt: "This paper introduces five papers with regard to HDR 
 images reconstruction using deep learning methods.Three 
 of them are muti-image reconstruction and two of them are
