@@ -16,4 +16,4 @@ gives a original table to summarize their characteristics and
 differences.Besides,I notice that HDR images reconstruction still faces many challenges,and I propose some aspects
 that can be researched in future work.
 
-[PDF](../assets/survey_HDR.pdf)
+[PDF](https://qiudi233.github.io/assets/survey_HDR.pdf)
