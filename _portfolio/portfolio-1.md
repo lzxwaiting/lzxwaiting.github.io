@@ -9,4 +9,4 @@ This is a board game called NOGO，and you can find the rule [here](https://wiki
 
 Min-max for the algorithm and EasyX for the UI.
 
-[DEMO](https://www.bilibili.com/video/BV1bK411o7Yr/?spm_id_from=333.999.0.0) / [Code](https://github.com/QiuDi233/Peking-University-NOGO-)
+[Demo](https://www.bilibili.com/video/BV1bK411o7Yr/?spm_id_from=333.999.0.0) / [Code](https://github.com/QiuDi233/Peking-University-NOGO-)
