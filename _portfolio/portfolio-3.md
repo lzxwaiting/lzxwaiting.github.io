@@ -1,5 +1,5 @@
 ---
-title: "Drawing Software. 
+title: "Drawing Software. "
 excerpt: "This is a drawing software which can draw line,rectangle,circle and so on.Also,you can operate on the figure you have drawn. <br/><img src='/images/drawing.png'>"
 collection: portfolio
 ---
