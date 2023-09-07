@@ -12,6 +12,7 @@ redirect_from:
 来自 [福州大学](https://fzu.edu.cn/), [FuZhou University](https://www.fzu.edu.cn/). 主要参与方向：数据挖掘、联邦学习的非独立同分布问题
 
 专业：2021级计算机实验班
+![image](https://github.com/lzxwaiting/lzxwaiting.github.io/assets/91645131/6739cea0-af0f-4cfd-b4af-25651cae3412)
 
 目前成果：一篇AAAI在投（学长学姐带的好,主要成果都是学长学姐的功劳）
 个人微小贡献：复现了部分对比算法中FedCog代码，查阅相应顶会文献，撰写参考文献附录
