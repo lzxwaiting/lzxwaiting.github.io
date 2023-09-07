@@ -6,14 +6,23 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+
 ---
 
-I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+来自 [福州大学](https://fzu.edu.cn/), [FuZhou University](https://www.fzu.edu.cn/). 主要参与方向：数据挖掘、联邦学习的非独立同分布问题
+专业：2021级计算机实验班
 
-I am very fortunate to be advised by [Prof. Shanghang Zhang](https://www.shanghangzhang.com/) of BLV Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. Boxin Shi](https://ci.idm.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+目前成果：一篇AAAI在投（学长学姐带的好,主要成果都是学长学姐的功劳）
+个人微小贡献：复现了部分对比算法中FedCog代码，查阅相应顶会文献，撰写参考文献附录
+学习方向：机器学习基础；暂无前后端经验，将会在这学期进行提高
+缺少能力：缺少工程经验，将会在未来的一到两年内多做项目，进行补全
 
-You can find my CV here: [Di Qiu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+未来规划：
+大三；正常参与学习，努力在实验室实习中发光发热
+大四：依据成绩进行适当规划：考研或就业两手准备
+研一/工作：继续参与实验室工作，努力发文；冷静分析就业形势，投递省内企业简历
 
-**I am looking for research internship of summer 2023. Feel free to email me for potential opportunities.**
+**欢迎随时与我联系，交流彼此的真知灼见（）**
 
-[Email](mailto:qiudi@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [Blog](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+[Email](lzxwating@foxmail.com) / [Github](https://github.com/lzxwaiting) / [QQ](1161477176) 
+
