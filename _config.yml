@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Di Qiu's Personal Homepage"
+locale                   : "CN"
+title                    : "Lzx's Personal Homepage"
 title_separator          : "-"
-name                     : &name "Di Qiu"
-description              : &description "a third year undergraduate student from Peking University"
-url                      : https://qiudi233.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Lin Zexi"
+description              : &description "FZU 大三"
+url                      : https://lzxwaiting.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "QiuDi233/QiuDi233.github.io"
+repository               : "lzxwaiting/lzxwaiting.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Di Qiu（邱荻）"
-  avatar           : "qiudi.png"
-  bio              : "Peking University"
-  location         : "China Beijing"
+  name             : "Lin Zexi(林泽熙）"
+  avatar           : #
+  bio              : "FuZhou University"
+  location         : "China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/QiuDi233"
+  github           : "https://github.com/lzxwaiting"
   google_plus      :
   keybase          :
   instagram        :
